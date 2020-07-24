@@ -1,0 +1,43 @@
+#features-list .first i {
+  color: #fc6706;
+}
+
+#features-list .third i {
+  color: #fc6706;
+}
+
+#features-list .first h4 {
+  color: #fc6706;
+}
+
+#features-list .third h4 {
+  color: #fc6706;
+}
+
+.mean-container .mean-bar {
+  color: #0f8a8a;
+}
+
+#services [class*="col-"]:nth-child(1) .services-item .service-icon i {
+  color: #0f8a8a;
+}
+
+#services [class*="col-"]:nth-child(2) .services-item .service-icon i {
+  color: #0f8a8a;
+}
+
+#services [class*="col-"]:nth-child(3) .services-item .service-icon i {
+  color: #0f8a8a;
+}
+
+#services [class*="col-"]:nth-child(4) .services-item .service-icon i {
+  color: #0f8a8a;
+}
+
+.single-testimonial h4 {
+  color: #fc6706;
+}
+
+.single-testimonial p {
+  color: #0f8a8a;
+}
